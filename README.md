@@ -70,9 +70,14 @@ assign borrow= ( ~a & b);
 endmodule
 
 ```
+
+```
+
 Developed by:MAGESH.S
 RegisterNumber:24900241
 
+
+```
 **RTL Schematic**
 
 HALF ADDER:
